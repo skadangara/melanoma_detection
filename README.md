@@ -54,7 +54,7 @@
 - [Image dataset loading in tensorflow](https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory)
 
 ## Contact
-Created by [@bineeshpc] - feel free to contact me!
+Created by [@skadangara] - feel free to contact me!
 
 
 <!-- Optional -->
